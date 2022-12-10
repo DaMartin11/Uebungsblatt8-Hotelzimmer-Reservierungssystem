@@ -1,0 +1,441 @@
+;Authors;Title;link
+0;Christian Janze, Marten Risius;Automatic Detection of Fake News on Social Media Platforms;http://aisel.aisnet.org/pacis2017/261
+1;Kenan Xiao Auburn University, Ashish Gupta, Wenting Jiang, Xiao Qin;Exploring Roles of Emotion in Fake News Detection;http://aisel.aisnet.org/sigdsa2021/11
+2;Kyuhan Lee, Sudha Ram;Intention-based Deep Learning Approach for Detecting Online Fake News;http://aisel.aisnet.org/icis2021/data_analytics/data_analytics/4
+3;Xiaohui Zhang, Qianzhou Du, Zhongju Zhang;An Explainable Machine Learning Framework for Fake Financial News Detection;http://aisel.aisnet.org/icis2020/adv_research_methods/adv_research_methods/6
+4;Piyush Vyas, Jun Liu, Omar El-Gayar;Fake News Detection on the Web: An LSTM-based Approach;http://aisel.aisnet.org/amcis2021/virtual_communities/virtual_communities/5
+5;Alex Olivieri, Shaban Shabani, Maria Sokhn, Philippe Cudré-Mauroux;Creating Task-Generic Features for Fake News Detection;http://aisel.aisnet.org/hicss-52/in/truth_and_lies_on_the_internet/3
+6;Kelvin King-Kizito;The Gray Side of Fake News: A Multiclass Approach to Detecting Fake News, Real News and Everything Else in Between;http://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/10
+7;Samuel Kießling, Kathrin Figl, Ulrich Remus;Human Experts or Artificial Intelligence? Algorithm Aversion in Fake News Detection;http://aisel.aisnet.org/ecis2021_rp/149
+8;Muammer Eren Sahin, Chunyang Tang, Mohammad Al-Ramahi;Fake News Detection on Social Media: A Word Embedding-Based Approach;http://aisel.aisnet.org/amcis2022/vcc/vcc/4
+9;Henner Gimpel, Sebastian Heger, Julia Kasper, Ricarda Schäfer;The Power of Related Articles – Improving Fake News Detection on Social Media Platforms;http://aisel.aisnet.org/hicss-53/os/dark_side/2
+10;Fernando Cardoso Durier da Silva, Rafael Vieira, Ana Cristina Garcia;Can Machines Learn to Detect Fake News? A Survey Focused on Social Media;http://aisel.aisnet.org/hicss-52/dsm/social_movements/4
+0;Ercan Canhasi, Rexhep Shijaku, Erblin Berisha;Albanian fake news detection;https://dl.acm.org/doi/10.1145/3487288
+1;Xinyi Zhou, Atishay Jain, Vir V. Phoha, Reza Zafarani;Fake News Early Detection: A Theory-driven Model;https://dl.acm.org/doi/10.1145/3377478
+2;Siva Charan Reddy Gangireddy, Deepak P, Cheng Long, Tanmoy Chakraborty;Unsupervised Fake News Detection: A Graph-based Approach;https://dl.acm.org/doi/10.1145/3372923.3404783
+3;Kai Shu, Amy Sliva, Suhang Wang, Jiliang Tang, Huan Liu;Fake News Detection on Social Media: A Data Mining Perspective;https://dl.acm.org/doi/10.1145/3137597.3137600
+4;Atanu Saha, Khondakar Tawhid, Md. Badhon Miah, Arrafi Ahsan Somudro, Dip Nandi;A Comparative Analysis on Fake News Detection Methods;https://dl.acm.org/doi/10.1145/3542954.3543010
+5;Shivangi Singhal, Mudit Dhawan, Rajiv Ratn Shah, Ponnurangam Kumaraguru;Inter-modality Discordance for Multimodal Fake News Detection;https://dl.acm.org/doi/10.1145/3469877.3490614
+6;Benjamin D. Horne, Jeppe Nørregaard, Sibel Adali;Robust Fake News Detection Over Time and Attack;https://dl.acm.org/doi/10.1145/3363818
+7;Ayat Abedalla, Aisha Al-Sadi, Malak Abdullah;A Closer Look at Fake News Detection: A Deep Learning Perspective;https://dl.acm.org/doi/10.1145/3369114.3369149
+8;Jathin Badam, Akash Bonagiri, Kvln Raju, Dipanjan Chakraborty;Aletheia: A Fake News Detection System for Hindi;https://dl.acm.org/doi/10.1145/3493700.3493736
+9;Dimitrios Katsaros, George Stavropoulos, Dimitrios Papakostas;Which machine learning paradigm for fake news detection?;https://dl.acm.org/doi/10.1145/3350546.3352552
+10;Dhruv Khattar, Jaipal Singh Goud, Manish Gupta, Vasudeva Varma;MVAE: Multimodal Variational Autoencoder for Fake News Detection;https://dl.acm.org/doi/10.1145/3308558.3313552
+11;Francisco D.C. Medeiros, Reinaldo Bezerra Braga;Fake News Detection in Social Media: A Systematic Review;https://dl.acm.org/doi/10.1145/3411564.3411648
+12;Stefan Helmstetter, Heiko Paulheim;Weakly supervised learning for fake news detection on Twitter;https://dl.acm.org/doi/10.5555/3382225.3382283
+13;Kai Shu, Xinyi Zhou, Suhang Wang, Reza Zafarani, Huan Liu;The role of user profiles for fake news detection;https://dl.acm.org/doi/10.1145/3341161.3342927
+14;Sebastian Tschiatschek, Adish Singla, Manuel Gomez Rodriguez, Arpit Merchant, Andreas Krause;Fake News Detection in Social Networks via Crowd Signals;https://dl.acm.org/doi/10.1145/3184558.3188722
+15;Tyler Simpson, Feng-Jen Yang;Some Hands-on Approaches to Fake Political News Detection;https://dl.acm.org/doi/10.1145/3556384.3556412
+16;Hnin Ei Wynne, Zar Zar Wint;Content Based Fake News Detection Using N-Gram Models;https://dl.acm.org/doi/10.1145/3366030.3366116
+17;Yi Shao, Jiande Sun, Tianlin Zhang, Ye Jiang, Jianhua Ma, Jing Li;Fake News Detection Based on Multi-Modal Classifier Ensemble;https://dl.acm.org/doi/10.1145/3512732.3533583
+18;Weizhi Xu, Junfei Wu, Qiang Liu, Shu Wu, Liang Wang;Evidence-aware Fake News Detection with Graph Neural Networks;https://dl.acm.org/doi/10.1145/3485447.3512122
+19;Yasan Ding, Bin Guo, Yan Liu, Yunji Liang, Haocheng Shen, Zhiwen Yu;MetaDetector: Meta Event Knowledge Transfer for Fake News Detection;https://dl.acm.org/doi/10.1145/3532851
+20;Yixuan Chen, Dongsheng Li, Peng Zhang, Jie Sui, Qin Lv, Lu Tun, Li Shang;Cross-modal Ambiguity Learning for Multimodal Fake News Detection;https://dl.acm.org/doi/10.1145/3485447.3511968
+21;Yi Xie, Xixuan Huang, Xiaoxuan Xie, Shengyi Jiang;A Fake News Detection Framework Using Social User Graph;https://dl.acm.org/doi/10.1145/3404512.3404515
+22;Fantahun Bogale Gereme, William Zhu;"Early Detection of Fake News ""Before It Flies High""";https://dl.acm.org/doi/10.1145/3358528.3358567
+23;Mary Jane C. Samonte;Polarity Analysis of Editorial Articles towards Fake News Detection;https://dl.acm.org/doi/10.1145/3230348.3230354
+24;Shengsheng Qian, Jinguang Wang, Jun Hu, Quan Fang, Changsheng Xu;Hierarchical Multi-modal Contextual Attention Network for Fake News Detection;https://dl.acm.org/doi/10.1145/3404835.3462871
+25;Hao Huang, LiHua Zhou, YiTing Jiang;Early detection of fake news based on multiple information features;https://dl.acm.org/doi/10.1145/3478905.3478985
+26;Youze Wang, Shengsheng Qian, Jun Hu, Quan Fang, Changsheng Xu;Fake News Detection via Knowledge-driven Multimodal Graph Convolutional Networks;https://dl.acm.org/doi/10.1145/3372278.3390713
+27;Tayyaba Rasool, Wasi Haider Butt, Arslan Shaukat, M. Usman Akram;Multi-Label Fake News Detection using Multi-layered Supervised Learning;https://dl.acm.org/doi/10.1145/3313991.3314008
+28;Paulo Márcio Souza Freire, Ronaldo Ribeiro Goldschmidt;Fake news detection on social media via implicit crowd signals;https://dl.acm.org/doi/10.1145/3323503.3360626
+29;Yaqing Wang, Fenglong Ma, Haoyu Wang, Kishlay Jha, Jing Gao;Multimodal Emergent Fake News Detection via Meta Neural Process Networks;https://dl.acm.org/doi/10.1145/3447548.3467153
+30;Cheng-Te Li;Explainable Detection of Fake News and Cyberbullying on Social Media;https://dl.acm.org/doi/10.1145/3366424.3384366
+31;Shivangi Singhal, Tanisha Pandey, Saksham Mrig, Rajiv Ratn Shah, Ponnurangam Kumaraguru;Leveraging Intra and Inter Modality Relationship for Multimodal Fake News Detection;https://dl.acm.org/doi/10.1145/3487553.3524650
+32;Junfei Wu, Qiang Liu, Weizhi Xu, Shu Wu;Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention;https://dl.acm.org/doi/10.1145/3477495.3531850
+33;Fouzi Harrag, Mohamed Khalil Djahli;Arabic Fake News Detection: A Fact Checking Based Deep Learning Approach;https://dl.acm.org/doi/10.1145/3501401
+34;Arkadipta De, Maunendra Sankar Desarkar;Multi-Context Based Neural Approach for COVID-19 Fake-News Detection;https://dl.acm.org/doi/10.1145/3487553.3524662
+35;Adrien Benamira, Benjamin Devillers, Etienne Lesot, Ayush K. Ray, Manal Saadi, Fragkiskos D. Malliaros;Semi-supervised learning and graph neural networks for fake news detection;https://dl.acm.org/doi/10.1145/3341161.3342958
+36;Michał Choraś, Marek Pawlicki, Rafał Kozik, Konstantinos Demestichas, Pavlos Kosmides, Manik Gupta;SocialTruth Project Approach to Online Disinformation (Fake News) Detection and Mitigation;https://dl.acm.org/doi/10.1145/3339252.3341497
+37;Ryoya Furukawa, Daiki Ito, Yuta Takata, Hiroshi Kumagai, Masaki Kamizono, Yoshiaki Shiraishi, Masakatu Morii;Fake News Detection via Biased User Profiles in Social Networking Sites;https://dl.acm.org/doi/10.1145/3486622.3493939
+38;Rajdipa Chowdhury, Sriram Srinivasan, Lise Getoor;Joint Estimation of User And Publisher Credibility for Fake News Detection;https://dl.acm.org/doi/10.1145/3340531.3412066
+39;Fahad Alsuliman, Siddhartha Bhattacharyya, Khaled Slhoub, Nasheen Nur, Candice Normalee Chambers;Social Media vs. News Platforms: A Cross-analysis for Fake News Detection Using Web Scraping and NLP;https://dl.acm.org/doi/10.1145/3529190.3534755
+40;Hyewon Choi, Youngjoong Ko;Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection;https://dl.acm.org/doi/10.1145/3459637.3482212
+41;Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu;Fake News: Fundamental Theories, Detection Strategies and Challenges;https://dl.acm.org/doi/10.1145/3289600.3291382
+42;Jian Cui, Kwanwoo Kim, Seung Ho Na, Seungwon Shin;Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information;https://dl.acm.org/doi/10.1145/3511808.3557394
+43;Mary Jane C. Samonte;Polarity Analysis of Editorial Articles towards Fake News Detection;https://dl.acm.org/doi/10.1145/3230348.3230354
+44;Shengsheng Qian, Jinguang Wang, Jun Hu, Quan Fang, Changsheng Xu;Hierarchical Multi-modal Contextual Attention Network for Fake News Detection;https://dl.acm.org/doi/10.1145/3404835.3462871
+45;Hao Huang, LiHua Zhou, YiTing Jiang;Early detection of fake news based on multiple information features;https://dl.acm.org/doi/10.1145/3478905.3478985
+46;Youze Wang, Shengsheng Qian, Jun Hu, Quan Fang, Changsheng Xu;Fake News Detection via Knowledge-driven Multimodal Graph Convolutional Networks;https://dl.acm.org/doi/10.1145/3372278.3390713
+47;Tayyaba Rasool, Wasi Haider Butt, Arslan Shaukat, M. Usman Akram;Multi-Label Fake News Detection using Multi-layered Supervised Learning;https://dl.acm.org/doi/10.1145/3313991.3314008
+48;Paulo Márcio Souza Freire, Ronaldo Ribeiro Goldschmidt;Fake news detection on social media via implicit crowd signals;https://dl.acm.org/doi/10.1145/3323503.3360626
+49;Yaqing Wang, Fenglong Ma, Haoyu Wang, Kishlay Jha, Jing Gao;Multimodal Emergent Fake News Detection via Meta Neural Process Networks;https://dl.acm.org/doi/10.1145/3447548.3467153
+50;Cheng-Te Li;Explainable Detection of Fake News and Cyberbullying on Social Media;https://dl.acm.org/doi/10.1145/3366424.3384366
+51;Shivangi Singhal, Tanisha Pandey, Saksham Mrig, Rajiv Ratn Shah, Ponnurangam Kumaraguru;Leveraging Intra and Inter Modality Relationship for Multimodal Fake News Detection;https://dl.acm.org/doi/10.1145/3487553.3524650
+52;Junfei Wu, Qiang Liu, Weizhi Xu, Shu Wu;Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention;https://dl.acm.org/doi/10.1145/3477495.3531850
+53;Fouzi Harrag, Mohamed Khalil Djahli;Arabic Fake News Detection: A Fact Checking Based Deep Learning Approach;https://dl.acm.org/doi/10.1145/3501401
+54;Arkadipta De, Maunendra Sankar Desarkar;Multi-Context Based Neural Approach for COVID-19 Fake-News Detection;https://dl.acm.org/doi/10.1145/3487553.3524662
+55;Adrien Benamira, Benjamin Devillers, Etienne Lesot, Ayush K. Ray, Manal Saadi, Fragkiskos D. Malliaros;Semi-supervised learning and graph neural networks for fake news detection;https://dl.acm.org/doi/10.1145/3341161.3342958
+56;Michał Choraś, Marek Pawlicki, Rafał Kozik, Konstantinos Demestichas, Pavlos Kosmides, Manik Gupta;SocialTruth Project Approach to Online Disinformation (Fake News) Detection and Mitigation;https://dl.acm.org/doi/10.1145/3339252.3341497
+57;Ryoya Furukawa, Daiki Ito, Yuta Takata, Hiroshi Kumagai, Masaki Kamizono, Yoshiaki Shiraishi, Masakatu Morii;Fake News Detection via Biased User Profiles in Social Networking Sites;https://dl.acm.org/doi/10.1145/3486622.3493939
+58;Rajdipa Chowdhury, Sriram Srinivasan, Lise Getoor;Joint Estimation of User And Publisher Credibility for Fake News Detection;https://dl.acm.org/doi/10.1145/3340531.3412066
+59;Fahad Alsuliman, Siddhartha Bhattacharyya, Khaled Slhoub, Nasheen Nur, Candice Normalee Chambers;Social Media vs. News Platforms: A Cross-analysis for Fake News Detection Using Web Scraping and NLP;https://dl.acm.org/doi/10.1145/3529190.3534755
+60;Hyewon Choi, Youngjoong Ko;Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection;https://dl.acm.org/doi/10.1145/3459637.3482212
+61;Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu;Fake News: Fundamental Theories, Detection Strategies and Challenges;https://dl.acm.org/doi/10.1145/3289600.3291382
+62;Jian Cui, Kwanwoo Kim, Seung Ho Na, Seungwon Shin;Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information;https://dl.acm.org/doi/10.1145/3511808.3557394
+63;Mary Jane C. Samonte;Polarity Analysis of Editorial Articles towards Fake News Detection;https://dl.acm.org/doi/10.1145/3230348.3230354
+64;Shengsheng Qian, Jinguang Wang, Jun Hu, Quan Fang, Changsheng Xu;Hierarchical Multi-modal Contextual Attention Network for Fake News Detection;https://dl.acm.org/doi/10.1145/3404835.3462871
+65;Hao Huang, LiHua Zhou, YiTing Jiang;Early detection of fake news based on multiple information features;https://dl.acm.org/doi/10.1145/3478905.3478985
+66;Youze Wang, Shengsheng Qian, Jun Hu, Quan Fang, Changsheng Xu;Fake News Detection via Knowledge-driven Multimodal Graph Convolutional Networks;https://dl.acm.org/doi/10.1145/3372278.3390713
+67;Tayyaba Rasool, Wasi Haider Butt, Arslan Shaukat, M. Usman Akram;Multi-Label Fake News Detection using Multi-layered Supervised Learning;https://dl.acm.org/doi/10.1145/3313991.3314008
+68;Paulo Márcio Souza Freire, Ronaldo Ribeiro Goldschmidt;Fake news detection on social media via implicit crowd signals;https://dl.acm.org/doi/10.1145/3323503.3360626
+69;Yaqing Wang, Fenglong Ma, Haoyu Wang, Kishlay Jha, Jing Gao;Multimodal Emergent Fake News Detection via Meta Neural Process Networks;https://dl.acm.org/doi/10.1145/3447548.3467153
+70;Cheng-Te Li;Explainable Detection of Fake News and Cyberbullying on Social Media;https://dl.acm.org/doi/10.1145/3366424.3384366
+71;Shivangi Singhal, Tanisha Pandey, Saksham Mrig, Rajiv Ratn Shah, Ponnurangam Kumaraguru;Leveraging Intra and Inter Modality Relationship for Multimodal Fake News Detection;https://dl.acm.org/doi/10.1145/3487553.3524650
+72;Junfei Wu, Qiang Liu, Weizhi Xu, Shu Wu;Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention;https://dl.acm.org/doi/10.1145/3477495.3531850
+73;Fouzi Harrag, Mohamed Khalil Djahli;Arabic Fake News Detection: A Fact Checking Based Deep Learning Approach;https://dl.acm.org/doi/10.1145/3501401
+74;Arkadipta De, Maunendra Sankar Desarkar;Multi-Context Based Neural Approach for COVID-19 Fake-News Detection;https://dl.acm.org/doi/10.1145/3487553.3524662
+75;Adrien Benamira, Benjamin Devillers, Etienne Lesot, Ayush K. Ray, Manal Saadi, Fragkiskos D. Malliaros;Semi-supervised learning and graph neural networks for fake news detection;https://dl.acm.org/doi/10.1145/3341161.3342958
+76;Michał Choraś, Marek Pawlicki, Rafał Kozik, Konstantinos Demestichas, Pavlos Kosmides, Manik Gupta;SocialTruth Project Approach to Online Disinformation (Fake News) Detection and Mitigation;https://dl.acm.org/doi/10.1145/3339252.3341497
+77;Ryoya Furukawa, Daiki Ito, Yuta Takata, Hiroshi Kumagai, Masaki Kamizono, Yoshiaki Shiraishi, Masakatu Morii;Fake News Detection via Biased User Profiles in Social Networking Sites;https://dl.acm.org/doi/10.1145/3486622.3493939
+78;Rajdipa Chowdhury, Sriram Srinivasan, Lise Getoor;Joint Estimation of User And Publisher Credibility for Fake News Detection;https://dl.acm.org/doi/10.1145/3340531.3412066
+79;Fahad Alsuliman, Siddhartha Bhattacharyya, Khaled Slhoub, Nasheen Nur, Candice Normalee Chambers;Social Media vs. News Platforms: A Cross-analysis for Fake News Detection Using Web Scraping and NLP;https://dl.acm.org/doi/10.1145/3529190.3534755
+80;Hyewon Choi, Youngjoong Ko;Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection;https://dl.acm.org/doi/10.1145/3459637.3482212
+81;Xinyi Zhou, Reza Zafarani, Kai Shu, Huan Liu;Fake News: Fundamental Theories, Detection Strategies and Challenges;https://dl.acm.org/doi/10.1145/3289600.3291382
+82;Jian Cui, Kwanwoo Kim, Seung Ho Na, Seungwon Shin;Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information;https://dl.acm.org/doi/10.1145/3511808.3557394
+83;Rutchaneewan Kowirat, Laor Boongasame;Fake News Detection on Social Media: Case Study of 2019 Novel Coronavirus;https://dl.acm.org/doi/10.1145/3510249.3510301
+84;Igor Maffei Libonati Maia, Marcelo Pereira de Souza, Flávio Roberto Matias da Silva, Paulo Márcio Souza Freire, Ronaldo Ribeiro Goldschmidt;A Sentiment-Based Multimodal Method to Detect Fake News;https://dl.acm.org/doi/10.1145/3470482.3479467
+85;Shengsheng Qian, Jun Hu, Quan Fang, Changsheng Xu;Knowledge-aware Multi-modal Adaptive Graph Convolutional Networks for Fake News Detection;https://dl.acm.org/doi/10.1145/3451215
+86;Mohammadreza Samadi, Maryam Mousavian, Saeedeh Momtazi;Persian Fake News Detection: Neural Representation and Classification at Word and Text Levels;https://dl.acm.org/doi/10.1145/3472620
+87;David Megías, Minoru Kuribayashi, Andrea Rosales, Wojciech Mazurczyk;DISSIMILAR: Towards fake news detection using information hiding, signal processing and machine learning;https://dl.acm.org/doi/10.1145/3465481.3470088
+88;Ke Li, Bin Guo, Jiaqi Liu, Jiangtao Wang, Haoyang Ren, Fei Yi, Zhiwen Yu;Dynamic Probabilistic Graphical Model for Progressive Fake News Detection on Social Media Platform;https://dl.acm.org/doi/10.1145/3523060
+89;Yu-Wun Tseng, Hui-Kuo Yang, Wei-Yao Wang, Wen-Chih Peng;KAHAN: Knowledge-Aware Hierarchical Attention Network for Fake News detection on Social Media;https://dl.acm.org/doi/10.1145/3487553.3524664
+90;Reza Zafarani, Xinyi Zhou, Kai Shu, Huan Liu;Fake News Research: Theories, Detection Strategies, and Open Problems;https://dl.acm.org/doi/10.1145/3292500.3332287
+91;Erxue Min, Yu Rong, Yatao Bian, Tingyang Xu, Peilin Zhao, Junzhou Huang, Sophia Ananiadou;Divide-and-Conquer: Post-User Interaction Network for Fake News Detection on Social Media;https://dl.acm.org/doi/10.1145/3485447.3512163
+92;Aaron Carl T. Fernandez, Madhavi Devaraj;Computing the Linguistic-Based Cues of Fake News in the Philippines Towards its Detection;https://dl.acm.org/doi/10.1145/3326467.3326490
+93;Mu-Yen Chen, Yi-Wei Lai, Jiunn-Woei Lian;Using Deep Learning Models to Detect Fake News About COVID-19;https://dl.acm.org/doi/10.1145/3533431
+94;Akshi Kumar, Christian Esposito, Dimitrios A. Karras;Introduction to Special Issue on Misinformation, Fake News and Rumor Detection in Low-Resource Languages;https://dl.acm.org/doi/10.1145/3505588
+95;Peng Qi, Juan Cao, Xirong Li, Huan Liu, Qiang Sheng, Xiaoyue Mi, Qin He, Yongbiao Lv, Chenyang Guo, Yingchao Yu;Improving Fake News Detection by Using an Entity-enhanced Framework to Fuse Diverse Multimodal Clues;https://dl.acm.org/doi/10.1145/3474085.3481548
+96;Rohit Kumar Kaliyar, Anurag Goswami, Pratik Narang;MCNNet: Generalizing Fake News Detection with a Multichannel Convolutional Neural Network using a Novel COVID-19 Dataset;https://dl.acm.org/doi/10.1145/3430984.3431064
+97;Luís Borges, Bruno Martins, Pável Calado;Combining Similarity Features and Deep Representation Learning for Stance Detection in the Context of Checking Fake News;https://dl.acm.org/doi/10.1145/3287763
+98;Prashansa Agrawal, Parwat Singh Anjana, Sathya Peri;DeHiDe: Deep Learning-based Hybrid Model to Detect Fake News using Blockchain✱;https://dl.acm.org/doi/10.1145/3427796.3430003
+99;Elio Masciari, Vincenzo Moscato, Antonio Picariello, Giancarlo Sperlí;Detecting fake news by image analysis;https://dl.acm.org/doi/10.1145/3410566.3410599
+100;Sirisha Bojjireddy, Soon Ae Chun, James Geller;Machine Learning Approach to Detect Fake News, Misinformation in COVID-19 Pandemic;https://dl.acm.org/doi/10.1145/3463677.3463762
+101;Xinyi Zhou, Reza Zafarani;A Survey of Fake News: Fundamental Theories, Detection Methods, and Opportunities;https://dl.acm.org/doi/10.1145/3395046
+102;Borhan Uddin, Nahid Reza, Md Saiful Islam, Hasib Ahsan, Mohammad Ruhul Amin;Fighting Against Fake News During Pandemic Era: Does Providing Related News Help Student Internet Users to Detect COVID-19 Misinformation?;https://dl.acm.org/doi/10.1145/3447535.3462508
+103;Meeyoung Cha, Wei Gao, Cheng-Te Li;Detecting fake news in social media: an Asia-Pacific perspective;https://dl.acm.org/doi/10.1145/3378422
+104;Ramsha Saeed, Hammad Afzal, Haider Abbas, Maheen Fatima;Enriching Conventional Ensemble Learner with Deep Contextual Semantics to Detect Fake News in Urdu;https://dl.acm.org/doi/10.1145/3461614
+105;Jooyeon Kim, Behzad Tabibian, Alice Oh, Bernhard Schölkopf, Manuel Gomez-Rodriguez;Leveraging the Crowd to Detect and Reduce the Spread of Fake News and Misinformation;https://dl.acm.org/doi/10.1145/3159652.3159734
+106;Bahruz Jabiyev, Sinan Pehlivanoglu, Kaan Onarlioglu, Engin Kirda;FADE: Detecting Fake News Articles on the Web;https://dl.acm.org/doi/10.1145/3465481.3465751
+107;Marcos Gôlo, Mariana Caravanti, Rafael Rossi, Solange Rezende, Bruno Nogueira, Ricardo Marcacini;Learning Textual Representations from Multiple Modalities to Detect Fake News Through One-Class Learning;https://dl.acm.org/doi/10.1145/3470482.3479634
+108;Yawen Deng, Sheng-Wen Wang;Detecting Fake News on Social Media by CSIBERT;https://dl.acm.org/doi/10.1145/3556677.3556698
+109;Fan Yang, Shiva K. Pentyala, Sina Mohseni, Mengnan Du, Hao Yuan, Rhema Linder, Eric D. Ragan, Shuiwang Ji, Xia (Ben) Hu;XFake: Explainable Fake News Detector with Visualizations;https://dl.acm.org/doi/10.1145/3308558.3314119
+110;Tal Schuster, Roei Schuster, Darsh J. Shah, Regina Barzilay;The Limitations of Stylometry for Detecting Machine-Generated Fake News;https://dl.acm.org/doi/10.1162/coli_a_00380
+111;Marcelo Pereira de Souza, Flávio Roberto Matias da Silva, Paulo Márcio Souza Freire, Ronaldo Ribeiro Goldschmidt;A Linguistic-Based Method that Combines Polarity, Emotion and Grammatical Characteristics to Detect Fake News in Portuguese;https://dl.acm.org/doi/10.1145/3428658.3430975
+112;Jia Ding, Yongjun Hu, Huiyou Chang;BERT-Based Mental Model, a Better Fake News Detector;https://dl.acm.org/doi/10.1145/3404555.3404607
+113;Bhavtosh Rath, Aadesh Salecha, Jaideep Srivastava;Detecting fake news spreaders in social networks using inductive representation learning;https://dl.acm.org/doi/10.1109/ASONAM49781.2020.9381466
+114;R.R. Rajalaxmi, L.V. Narasimha Prasad, B. Janakiramaiah, C.S. Pavankumar, N. Neelima, V.E. Sathishkumar;Optimizing Hyperparameters and Performance Analysis of LSTM Model in Detecting Fake News on Social media;https://dl.acm.org/doi/10.1145/3511897
+115;Demetris Paschalides, Alexandros Kornilakis, Chrysovalantis Christodoulou, Rafael Andreou, George Pallis, Marios Dikaiakos, Evangelos Markatos;Check-It: A plugin for Detecting and Reducing the Spread of Fake News and Misinformation on the Web;https://dl.acm.org/doi/10.1145/3350546.3352534
+116;Victoria L. Rubin, Yimin Chen, Niall J. Conroy;Deception detection for news: three types of fakes;https://dl.acm.org/doi/10.5555/2857070.2857153
+117;Kai Shu, Suhang Wang, Huan Liu;Beyond News Contents: The Role of Social Context for Fake News Detection;https://dl.acm.org/doi/10.1145/3289600.3290994
+118;Niall J. Conroy, Victoria L. Rubin, Yimin Chen;Automatic deception detection: methods for finding fake news;https://dl.acm.org/doi/10.5555/2857070.2857152
+119;Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu;dEFEND: Explainable Fake News Detection;https://dl.acm.org/doi/10.1145/3292500.3330935
+120;Limeng Cui, Kai Shu, Suhang Wang, Dongwon Lee, Huan Liu;dEFEND: A System for Explainable Fake News Detection;https://dl.acm.org/doi/10.1145/3357384.3357862
+121;Natali Ruchansky, Sungyong Seo, Yan Liu;CSI: A Hybrid Deep Model for Fake News Detection;https://dl.acm.org/doi/10.1145/3132847.3132877
+122;Yongchun Zhu, Qiang Sheng, Juan Cao, Shuokai Li, Danding Wang, Fuzhen Zhuang;Generalizing to the Future: Mitigating Entity Bias in Fake News Detection;https://dl.acm.org/doi/10.1145/3477495.3531816
+123;Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, Min-Yen Kan;FANG: leveraging social context for fake news detection using graph representation;https://dl.acm.org/doi/10.1145/3517214
+124;Vinay Setty, Erlend Rekve;Truth be Told: Fake News Detection Using User Reactions on Reddit;https://dl.acm.org/doi/10.1145/3340531.3417463
+125;Yaqing Wang, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, Jing Gao;EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection;https://dl.acm.org/doi/10.1145/3219819.3219903
+126;Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, Min-Yen Kan;FANG: Leveraging Social Context for Fake News Detection Using Graph Representation;https://dl.acm.org/doi/10.1145/3340531.3412046
+127;Tanmay Sachan, Nikhil Pinnaparaju, Manish Gupta, Vasudeva Varma;SCATE: shared cross attention transformer encoders for multimodal fake news detection;https://dl.acm.org/doi/10.1145/3487351.3490965
+128;Soeun Han, Yunyong Ko, Yushim Kim, Seong Soo Oh, Heejin Park, Sang-Wook Kim;D-FEND: a diffusion-based fake news detection framework for news articles related to COVID-19;https://dl.acm.org/doi/10.1145/3477314.3507134
+129;Yang Liu, Yi-Fang Brook Wu;FNED: A Deep Network for Fake News Early Detection on Social Media;https://dl.acm.org/doi/10.1145/3386253
+130;Rahul Mishra, Vinay Setty;SADHAN: Hierarchical Attention Networks to Learn Latent Aspect Embeddings for Fake News Detection;https://dl.acm.org/doi/10.1145/3341981.3344229
+131;Shashank Gupta, Raghuveer Thirukovalluru, Manjira Sinha, Sandya Mannarswamy;CIMTDetect: a community infused matrix-tensor coupled factorization based method for fake news detection;https://dl.acm.org/doi/10.5555/3382225.3382284
+132;Flávio Roberto Matias da Silva, Paulo Márcio Souza Freire, Marcelo Pereira de Souza, Gustavo de A. B. Plenamente, Ronaldo Ribeiro Goldschmidt;FakeNewsSetGen: a Process to Build Datasets that Support Comparison Among Fake News Detection Methods;https://dl.acm.org/doi/10.1145/3428658.3430965
+133;Ke Li, Bin Guo, Siyuan Ren, Zhiwen Yu;AdaDebunk: An Efficient and Reliable Deep State Space Model for Adaptive Fake News Early Detection;https://dl.acm.org/doi/10.1145/3511808.3557227
+134;Mingxuan Chen, Xinqiao Chu, K. P. Subbalakshmi;MMCoVaR: multimodal COVID-19 vaccine focused data repository for fake news detection and a baseline architecture for classification;https://dl.acm.org/doi/10.1145/3487351.3488346
+135;Limeng Cui, Suhang Wang, Dongwon Lee;SAME: sentiment-aware multi-modal embedding for detecting fake news;https://dl.acm.org/doi/10.1145/3341161.3342894
+136;Eleanor Tursman;Detecting deepfakes using crowd consensus;https://dl.acm.org/doi/10.1145/3416061
+137;Md. Saqib Hasan, Rukshar Alam, Muhammad Abdullah Adnan;Truth or lie: pre-emptive detection of fake news in different languages through entropy-based active learning and multi-model neural ensemble;https://dl.acm.org/doi/10.1109/ASONAM49781.2020.9381422
+138;Lev Konstantinovskiy, Oliver Price, Mevan Babakar, Arkaitz Zubiaga;Toward Automated Factchecking: Developing an Annotation Schema and Benchmark for Consistent Automated Claim Detection;https://dl.acm.org/doi/10.1145/3412869
+0;Parita Jain, Swati Sharma, Monica, Puneet Kumar Aggarwal;Classifying Fake News Detection Using SVM, Naive Bayes and LSTM;https://ieeexplore.ieee.org/document/9734129/
+1;Tao Jiang, Jian Ping Li, Amin Ul Haq, Abdus Saboor;Fake News Detection using Deep Recurrent Neural Networks;https://ieeexplore.ieee.org/document/9317325/
+2;Shlok Gilda;Notice of Violation of IEEE Publication Principles: Evaluating machine learning algorithms for fake news detection;https://ieeexplore.ieee.org/document/8305411/
+3;Tsvetelina Mladenova, Irena Valova;Analysis of the KNN Classifier Distance Metrics for Bulgarian Fake News Detection;https://ieeexplore.ieee.org/document/9461333/
+4;Jasmine Shaikh, Rupali Patil;Fake News Detection using Machine Learning;https://ieeexplore.ieee.org/document/9358890/
+5;Namwon Kim, Deokjin Seo, Chang-Sung Jeong;FAMOUS: Fake News Detection Model Based on Unified Key Sentence Information;https://ieeexplore.ieee.org/document/8663864/
+6;Kyeong-Hwan Kim, Chang-Sung Jeong;Fake News Detection System using Article Abstraction;https://ieeexplore.ieee.org/document/8864154/
+7;Ankit Kesarwani, Sudakar Singh Chauhan, Anil Ramachandran Nair;Fake News Detection on Social Media using K-Nearest Neighbor Classifier;https://ieeexplore.ieee.org/document/9154997/
+8;Anjali Jain, Avinash Shakya, Harsh Khatter, Amit Kumar Gupta;A smart System for Fake News Detection Using Machine Learning;https://ieeexplore.ieee.org/document/8977659/
+9;Hayato Matsumoto, Soh Yoshida, Mitsuji Muneyasu;Propagation-Based Fake News Detection Using Graph Neural Networks with Transformer;https://ieeexplore.ieee.org/document/9621803/
+10;Ammu Kuriakose, Dinnu Sebastian, Esther Mahima Mathew, Hannu Mathew, G Er.Gokulnath;ALIKAH- A Clickbait and Fake News Detection System using Natural Language Processing;https://ieeexplore.ieee.org/document/8862748/
+11;E. Puraivan, E. Godoy, F. Riquelme, R. Salas;Fake news detection on Twitter using a data mining framework based on explainable machine learning techniques;https://ieeexplore.ieee.org/document/9568994/
+12;Adrien Benamira, Benjamin Devillers, Etienne Lesot, Ayush K. Ray, Manal Saadi, Fragkiskos D. Malliaros;Semi-Supervised Learning and Graph Neural Networks for Fake News Detection;https://ieeexplore.ieee.org/document/9073625/
+13;Lovedeep Singh;Fake News Detection: a comparison between available Deep Learning techniques in vector space;https://ieeexplore.ieee.org/document/9312099/
+14;Syed Ishfaq Manzoor, Jimmy Singla, Nikita;Fake News Detection Using Machine Learning approaches: A systematic Review;https://ieeexplore.ieee.org/document/8862770/
+15;Yufan Lin, Zijian Shan, Siwei Zou;A Review of Deep Learning Techniques for Fake News Detection;https://ieeexplore.ieee.org/document/9736805/
+16;Yasmine Lahlou, Sanaa El Fkihi, Rdouan Faizi;Automatic detection of fake news on online platforms: A survey;https://ieeexplore.ieee.org/document/9002823/
+17;Daryna Dementieva, Alexander Panchenko;Fake News Detection using Multilingual Evidence;https://ieeexplore.ieee.org/document/9260100/
+18;Youngkyung Seo, Chang-Sung Jeong;FaGoN: Fake News Detection model using Grammatic Transformation on Neural Network;https://ieeexplore.ieee.org/document/8950518/
+19;Belhakimi Mohamed Amine, Ahlem Drif, Silvia Giordano;Merging deep learning model for fake news detection;https://ieeexplore.ieee.org/document/9015097/
+20;Aditi Vora, Narendra Shekokar;Fake News Detection Using Intelligent Techniques;https://ieeexplore.ieee.org/document/9596438/
+21;Chaitra K Hiramath, G. C Deshpande;Fake News Detection Using Deep Learning Techniques;https://ieeexplore.ieee.org/document/8987258/
+22;Jiayang Xi, Chaokai Zhang;COVID-19 fake news detection using attention-based transformer;https://ieeexplore.ieee.org/document/9736761/
+23;Shikun Lyu, Dan Chia-Tien Lo;Fake News Detection by Decision Tree;https://ieeexplore.ieee.org/document/9249688/
+24;Akshay Jain, Amey Kasbe;Fake News Detection;https://ieeexplore.ieee.org/document/8546944/
+25;Swapna H, Soniya B;A Review on News-Content Based Fake News Detection Approaches;https://ieeexplore.ieee.org/document/9885447/
+26;Yash Khivasara, Yash Khare, Tejas Bhadane;Fake News Detection System using Web-Extension;https://ieeexplore.ieee.org/document/9362384/
+27;Payal Agarwal, Sandeep Reddivari, Kalyan Reddivari;Fake News Detection: An Investigation based on Machine Learning;https://ieeexplore.ieee.org/document/9874240/
+28;Jawaher Alghamdi, Yuqing Lin, Suhuai Luo;Modeling Fake News Detection Using BERT-CNN-BiLSTM Architecture;https://ieeexplore.ieee.org/document/9874666/
+29;Reshmi T S, Daniel Madan Raja S;Fake News Detection using Voting Ensemble Classifier;https://ieeexplore.ieee.org/document/9850814/
+30;Abina Azees, Geevarghese Titus;Memory Based Online Fake News Detection System;https://ieeexplore.ieee.org/document/9885351/
+31;Ziwei Wang, Minzhu Zhao, Yu Chen, Yunya Song, Liang Lan;A Study of Cantonese Covid-19 Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9671722/
+32;Mykhailo Granik, Volodymyr Mesyura;Fake news detection using naive Bayes classifier;https://ieeexplore.ieee.org/document/8100379/
+33;Shubhangi Rastogi, Divya Bansal;Time is Important in Fake News Detection: a short review;https://ieeexplore.ieee.org/document/9799153/
+34;Rashmi Panda, Satya Kumari;Analysis of Deep Ensemble Transformer Model for Fake News Detection;https://ieeexplore.ieee.org/document/9915941/
+35;Julio C. S. Reis, André Correia, Fabrício Murai, Adriano Veloso, Fabrício Benevenuto;Supervised Learning for Fake News Detection;https://ieeexplore.ieee.org/document/8709925/
+36;Hnin Ei Wynne, Khaing Thanda Swe;Fake News Detection in Social Media using Two-Layers Ensemble Model;https://ieeexplore.ieee.org/document/9894967/
+37;Muhammad Maidugu Aji, Franco Adavize Ohikere, Somtochukwu Kofo-Alada, Tochukwu Abidemi Nwodo;Fake News Detection in News Articles and Social Media Posts;https://ieeexplore.ieee.org/document/9692374/
+38;Ashfia Jannat Keya, Shahid Afridi, Afroza Siddique Maria, Snaha Sadhu Pinki, Joy Ghosh, M. F. Mridha;Fake News Detection Based on Deep Learning;https://ieeexplore.ieee.org/document/9642565/
+39;Jaydine M. Castillo, Kyla Dann F. Fadera, Alexana Alian A. Ladao, Jeline G. Go, Melecia B. Tamayo;Fake News Detection on English News Article's Title;https://ieeexplore.ieee.org/document/9681409/
+40;Kai Shu, Suhang Wang, Huan Liu;Understanding User Profiles on Social Media for Fake News Detection;https://ieeexplore.ieee.org/document/8397048/
+41;Hager Saleh, Abdullah Alharbi, Saeed Hamood Alsamhi;OPCNN-FAKE: Optimized Convolutional Neural Network for Fake News Detection;https://ieeexplore.ieee.org/document/9537782/
+42;Yuxiang Ren, Jiawei Zhang;Fake News Detection on News-Oriented Heterogeneous Information Networks through Hierarchical Graph Attention;https://ieeexplore.ieee.org/document/9534362/
+43;Rohit Kumar Kaliyar, Pawan Kumar, Manish Kumar, Meenal Narkhede, Sreyas Namboodiri, Sneha Mishra;DeepNet: An Efficient Neural Network for Fake News Detection using News-User Engagements;https://ieeexplore.ieee.org/document/9277353/
+44;Amit Neil Ramkissoon, Wayne Goodridge;An Energy-Efficient Ensemble-Based Computational Social System for Fake News Detection in MANET Messaging;https://ieeexplore.ieee.org/document/9898266/
+45;Lianwei Wu, Yuan Rao, Cong Zhang, Yongqiang Zhao, Ambreen Nazir;Category-controlled Encoder-Decoder for Fake News Detection;https://ieeexplore.ieee.org/document/9511228/
+46;Yuta Yanagi, Ryohei Orihara, Yuichi Sei, Yasuyuki Tahara, Akihiko Ohsuga;Fake News Detection with Generated Comments for News Articles;https://ieeexplore.ieee.org/document/9147195/
+47;Yuqing Yang;COVID-19 Fake News Detection via Graph Neural Networks in Social Media;https://ieeexplore.ieee.org/document/9669662/
+48;Shivam B. Parikh, Pradeep K. Atrey;Media-Rich Fake News Detection: A Survey;https://ieeexplore.ieee.org/document/8397049/
+49;Harm de Wet, Vukosi Marivate;Is it Fake? News Disinformation Detection on South African News Websites;https://ieeexplore.ieee.org/document/9570905/
+50;Md Gulzar Hussain, Md Rashidul Hasan, Mahmuda Rahman, Joy Protim, Sakib Al Hasan;Detection of Bangla Fake News using MNB and SVM Classifier;https://ieeexplore.ieee.org/document/9231167/
+51;Deepak Mangal, Dilip Kumar Sharma;Fake News Detection with Integration of Embedded Text Cues and Image Features;https://ieeexplore.ieee.org/document/9197817/
+52;Stefan Helmstetter, Heiko Paulheim;Weakly Supervised Learning for Fake News Detection on Twitter;https://ieeexplore.ieee.org/document/8508520/
+53;Shashank Gupta, Raghuveer Thirukovalluru, Manjira Sinha, Sandya Mannarswamy;CIMTDetect: A Community Infused Matrix-Tensor Coupled Factorization Based Method for Fake News Detection;https://ieeexplore.ieee.org/document/8508408/
+54;Kai Shu, Xinyi Zhou, Suhang Wang, Reza Zafarani, Huan Liu;The Role of User Profiles for Fake News Detection;https://ieeexplore.ieee.org/document/9073122/
+55;Tao Jiang, Jian Ping Li, Amin Ul Haq, Abdus Saboor, Amjad Ali;A Novel Stacking Approach for Accurate Detection of Fake News;https://ieeexplore.ieee.org/document/9343823/
+56;Oluwaseun Ajao, Deepayan Bhowmik, Shahrzad Zargari;Sentiment Aware Fake News Detection on Online Social Networks;https://ieeexplore.ieee.org/document/8683170/
+57;Bashar Al Asaad, Madalina Erascu;A Tool for Fake News Detection;https://ieeexplore.ieee.org/document/8750741/
+58;Mohamed K. Elhadad, Kin Fun Li, Fayez Gebali;Fake News Detection on Social Media: A Systematic Survey;https://ieeexplore.ieee.org/document/8985062/
+59;Karishnu Poddar, Geraldine Bessie Amali D., K.S. Umadevi;Comparison of Various Machine Learning Models for Accurate Detection of Fake News;https://ieeexplore.ieee.org/document/8960044/
+60;Shovon Paul, Jubair Islam Joy, Shaila Sarker, Abdullah - Al - Haris Shakib, Sharif Ahmed, Amit Kumar Das;Fake News Detection in Social Media using Blockchain;https://ieeexplore.ieee.org/document/8843597/
+61;N. Smitha, R. Bharath;Performance Comparison of Machine Learning Classifiers for Fake News Detection;https://ieeexplore.ieee.org/document/9183072/
+62;Sunidhi Sharma, Dilip Kumar Sharma;Fake News Detection: A long way to go;https://ieeexplore.ieee.org/document/9036221/
+63;Rohit Kumar Kaliyar;Fake News Detection Using A Deep Neural Network;https://ieeexplore.ieee.org/document/8777343/
+64;Bhavika Bhutani, Neha Rastogi, Priyanshu Sehgal, Archana Purwar;Fake News Detection Using Sentiment Analysis;https://ieeexplore.ieee.org/document/8844880/
+65;Marco L. Della Vedova, Eugenio Tacchini, Stefano Moret, Gabriele Ballarin, Massimo DiPierro;Automatic Online Fake News Detection Combining Content and Social Signals;https://ieeexplore.ieee.org/document/8468301/
+66;Shaban Shabani, Maria Sokhn;Hybrid Machine-Crowd Approach for Fake News Detection;https://ieeexplore.ieee.org/document/8537846/
+67;Chandra Mouli Madhav Kotteti, XIshuang Dong, Na Li, Lijun Qian;Fake News Detection Enhancement with Data Imputation;https://ieeexplore.ieee.org/document/8511885/
+68;Maryam Heidari, Samira Zad, Parisa Hajibabaee, Masoud Malekzadeh, SeyyedPooya HekmatiAthar;BERT Model for Fake News Detection Based on Social Bot Activities in the COVID-19 Pandemic;https://ieeexplore.ieee.org/document/9666618/
+69;Muhammad Umer, Zainab Imtiaz, Saleem Ullah, Arif Mehmood, Gyu Sang Choi;Fake News Stance Detection Using Deep Learning Architecture (CNN-LSTM);https://ieeexplore.ieee.org/document/9178321/
+70;Sahil Gaonkar, Sachin Itagi, Rhethiqe Chalippatt, Avinash Gaonkar, Shailendra Aswale, Pratiksha Shetgaonkar;Detection Of Online Fake News : A Survey;https://ieeexplore.ieee.org/document/8899556/
+71;Yuxiang Ren, Bo Wang, Jiawei Zhang, Yi Chang;Adversarial Active Learning Based Heterogeneous Graph Neural Network for Fake News Detection;https://ieeexplore.ieee.org/document/9338358/
+72;Peng Qi, Juan Cao, Tianyun Yang, Junbo Guo, Jintao Li;Exploiting Multi-domain Visual Information for Fake News Detection;https://ieeexplore.ieee.org/document/8970940/
+73;Shivangi Singhal, Rajiv Ratn Shah, Tanmoy Chakraborty, Ponnurangam Kumaraguru, Shin'ichi Satoh;SpotFake: A Multi-modal Framework for Fake News Detection;https://ieeexplore.ieee.org/document/8919302/
+74;Jiawei Zhang, Bowen Dong, Philip S. Yu;FakeDetector: Effective Fake News Detection with Deep Diffusive Neural Network;https://ieeexplore.ieee.org/document/9101457/
+75;Youngkyung Seo, Deokjin Seo, Chang-Sung Jeong;FaNDeR: Fake News Detection Model Using Media Reliability;https://ieeexplore.ieee.org/document/8650350/
+76;Pawan Kumar Verma, Prateek Agrawal, Ivone Amorim, Radu Prodan;WELFake: Word Embedding Over Linguistic Features for Fake News Detection;https://ieeexplore.ieee.org/document/9395133/
+77;Vanya Tiwari, Ruth G. Lennon, Thomas Dowling;Not Everything You Read Is True! Fake News Detection using Machine learning Algorithms;https://ieeexplore.ieee.org/document/9180206/
+78;Zaitul Iradah Mahid, Selvakumar Manickam, Shankar Karuppayah;Fake News on Social Media: Brief Review on Detection Techniques;https://ieeexplore.ieee.org/document/8776689/
+79;Manoj Kumar Balwant;Bidirectional LSTM Based on POS tags and CNN Architecture for Fake News Detection;https://ieeexplore.ieee.org/document/8944460/
+80;Xishuang Dong, Uboho Victor, Lijun Qian;Two-Path Deep Semisupervised Learning for Timely Fake News Detection;https://ieeexplore.ieee.org/document/9235489/
+81;Stephane Schwarz, Antônio Theóphilo, Anderson Rocha;EMET: Embeddings from Multilingual-Encoder Transformer for Fake News Detection;https://ieeexplore.ieee.org/document/9054673/
+82;Junshuai Yu, Qi Huang, Xiaofei Zhou, Ying Sha;IARNet: An Information Aggregating and Reasoning Network over Heterogeneous Graph for Fake News Detection;https://ieeexplore.ieee.org/document/9207406/
+83;Tong Zhang, Di Wang, Huanhuan Chen, Zhiwei Zeng, Wei Guo, Chunyan Miao, Lizhen Cui;BDANN: BERT-Based Domain Adaptation Neural Network for Multi-Modal Fake News Detection;https://ieeexplore.ieee.org/document/9206973/
+84;Paweł Ksieniewicz, Paweł Zyblewski, Michał Choraś, Rafał Kozik, Agata Giełczyk, Michał Woźniak;Fake News Detection from Data Streams;https://ieeexplore.ieee.org/document/9207498/
+85;Sheng How Kong, Li Mei Tan, Keng Hoon Gan, Nur Hana Samsudin;Fake News Detection using Deep Learning;https://ieeexplore.ieee.org/document/9108841/
+86;Anastasia Giachanou, Guobiao Zhang, Paolo Rosso;Multimodal Multi-image Fake News Detection;https://ieeexplore.ieee.org/document/9260096/
+87;Thai Le, Suhang Wang, Dongwon Lee;MALCOM: Generating Malicious Comments to Attack Neural Fake News Detection Models;https://ieeexplore.ieee.org/document/9338282/
+88;Abhishek Verma, Vanshika Mittal, Suma Dawn;FIND: Fake Information and News Detections using Deep Learning;https://ieeexplore.ieee.org/document/8844892/
+89;Rahul Mishra;Fake News Detection using Higher-order User to User Mutual-attention Progression in Propagation Paths;https://ieeexplore.ieee.org/document/9151025/
+90;Arush Agarwal, Akhil Dixit;Fake News Detection: An Ensemble Learning Approach;https://ieeexplore.ieee.org/document/9121030/
+91;Dun Li, Haimei Guo, Zhenfei Wang, Zhiyun Zheng;Unsupervised Fake News Detection Based on Autoencoder;https://ieeexplore.ieee.org/document/9352726/
+92;Viera Maslej Krešňáková, Martin Sarnovský, Peter Butka;Deep learning methods for Fake News detection;https://ieeexplore.ieee.org/document/9105317/
+93;Wenlin Han, Varshil Mehta;Fake News Detection in Social Networks Using Machine Learning and Deep Learning: Performance Evaluation;https://ieeexplore.ieee.org/document/9065138/
+94;Ranojoy Barua, Rajdeep Maity, Dipankar Minj, Tarang Barua, Ashish Kumar Layek;F-NAD: An Application for Fake News Article Detection using Machine Learning Techniques;https://ieeexplore.ieee.org/document/8973059/
+95;Dimitrios Katsaros, George Stavropoulos, Dimitrios Papakostas;Which machine learning paradigm for fake news detection?;https://ieeexplore.ieee.org/document/8909583/
+96;Pakindessama M. Konkobo, Rui Zhang, Siyuan Huang, Toussida T. Minoungou, Jose A. Ouedraogo;A Deep Learning Model for Early Detection of Fake News on Social Media;https://ieeexplore.ieee.org/document/9348311/
+97;Akansha Gautam, Koteswar Rao Jerripothula;SGG: Spinbot, Grammarly and GloVe based Fake News Detection;https://ieeexplore.ieee.org/document/9232537/
+98;Wissam Antoun, Fady Baly, Rim Achour, Amir Hussein, Hazem Hajj;State of the Art Models for Fake News Detection Tasks;https://ieeexplore.ieee.org/document/9089487/
+99;Rohit Kumar Kaliyar, Anurag Goswami, Pratik Narang;Multiclass Fake News Detection using Ensemble Machine Learning;https://ieeexplore.ieee.org/document/8971579/
+100;Bing Han, Xiaoguang Han, Hua Zhang, Jingzhi Li, Xiaochun Cao;Fighting Fake News: Two Stream Network for Deepfake Detection via Learnable SRM;https://ieeexplore.ieee.org/document/9377486/
+101;Brandon Brown, Alexicia Richardson, Marcellus Smith, Gerry Dozier, Michael C. King;The Adversarial UFP/UFN Attack: A New Threat to ML-based Fake News Detection Systems?;https://ieeexplore.ieee.org/document/9308298/
+102;Dilip Kumar Sharma, Sonal Garg, Priya Shrivastava;Evaluation of Tools and Extension for Fake News Detection;https://ieeexplore.ieee.org/document/9388356/
+103;S. Selva Birunda, R. Kanniga Devi;A Novel Score-Based Multi-Source Fake News Detection using Gradient Boosting Algorithm;https://ieeexplore.ieee.org/document/9395896/
+104;Ghinadya, Suyanto Suyanto;Synonyms-Based Augmentation to Improve Fake News Detection using Bidirectional LSTM;https://ieeexplore.ieee.org/document/9166230/
+105;Fatma Najar, Nuha Zamzami, Nizar Bouguila;Fake News Detection Using Bayesian Inference;https://ieeexplore.ieee.org/document/8843441/
+106;Amit Neil Ramkissoon, Shareeda Mohammed;An Experimental Evaluation of Data Classification Models for Credibility Based Fake News Detection;https://ieeexplore.ieee.org/document/9346381/
+107;Kevin Matthe Caramancion;The Relation of Online Behavioral Response to Fake News Exposure and Detection Accuracy;https://ieeexplore.ieee.org/document/9666642/
+108;Herley Shaori Al-Ash, Wahyu Catur Wibowo;Fake News Identification Characteristics Using Named Entity Recognition and Phrase Detection;https://ieeexplore.ieee.org/document/8534898/
+109;Shailender Kumar, Subodh Kumar, Pooja Yadav, Meghna Bagri;A Survey on Analysis of Fake News Detection Techniques;https://ieeexplore.ieee.org/document/9395978/
+110;Saad Sadiq, Nicolas Wagner, Mei-Ling Shyu, Daniel Feaster;High Dimensional Latent Space Variational AutoEncoders for Fake News Detection;https://ieeexplore.ieee.org/document/8695321/
+111;Hrishikesh Telang, Shreya More, Yatri Modi, Lakshmi Kurup;Anempirical Analysis of Classification Models for Detection of Fake News Articles;https://ieeexplore.ieee.org/document/8869504/
+112;Peiguang Li, Xian Sun, Hongfeng Yu, Yu Tian, Fanglong Yao, Guangluan Xu;Entity-Oriented Multi-Modal Alignment and Fusion Network for Fake News Detection;https://ieeexplore.ieee.org/document/9495252/
+113;Xiaofan Zhi, Li Xue, Wengang Zhi, Ziye Li, Bo Zhao, Yanzhen Wang, Zhen Shen;Financial Fake News Detection with Multi fact CNN-LSTM Model;https://ieeexplore.ieee.org/document/9450924/
+114;Anmol Uppal, Vipul Sachdeva, Seema Sharma;Fake news detection using discourse segment structure analysis;https://ieeexplore.ieee.org/document/9058106/
+115;Murari Choudhary, Shashank Jha, Prashant, Deepika Saxena, Ashutosh Kumar Singh;A Review of Fake News Detection Methods using Machine Learning;https://ieeexplore.ieee.org/document/9456299/
+116;Sashank Sridhar, Sowmya Sanagavarapu;Fake News Detection and Analysis using Multitask Learning with BiLSTM CapsNet model;https://ieeexplore.ieee.org/document/9377080/
+117;Vian Sabeeh, Mohammed Zohdy, Rasha Al Bashaireh;Enhancing the Fake News Detection by Applying Effective Feature Selection Based on Semantic Sources;https://ieeexplore.ieee.org/document/9071056/
+118;Songqian Li, Kun Ma, Xuewei Niu, Yufeng Wang, Ke Ji, Ziqiang Yu, Zhenxiang Chen;Stacking-Based Ensemble Learning on Low Dimensional Features for Fake News Detection;https://ieeexplore.ieee.org/document/8855557/
+119;Jaynil Gaglani, Yash Gandhi, Shubham Gogate, Aparna Halbe;Unsupervised WhatsApp Fake News Detection using Semantic Search;https://ieeexplore.ieee.org/document/9120902/
+120;Shiwen Ni, Jiawen Li, Hung-Yu Kao;MVAN: Multi-View Attention Networks for Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9497048/
+121;Jiawei Zhang, Bowen Dong, Philip S. Yu;Deep Diffusive Neural Network based Fake News Detection from Heterogeneous Social Networks;https://ieeexplore.ieee.org/document/9005556/
+122;Shafayat Bin Shabbir Mugdha, Sayeda Muntaha Ferdous, Ahmed Fahmin;Evaluating Machine Learning Algorithms For Bengali Fake News Detection;https://ieeexplore.ieee.org/document/9392662/
+123;Pedro Faustini, Thiago Covões;Fake News Detection Using One-Class Classification;https://ieeexplore.ieee.org/document/8923888/
+124;Marcellus Smith, Alexicia Richardson, Brandon Brown, Gerry Dozier, Michael King, Joshua Morris;A Study of the Impact of Evolutionary-Based Feature Selection for Fake News Detection;https://ieeexplore.ieee.org/document/9308613/
+125;M. F. Mridha, Ashfia Jannat Keya, Md. Abdul Hamid, Muhammad Mostafa Monowar;A Comprehensive Review on Fake News Detection With Deep Learning;https://ieeexplore.ieee.org/document/9620068/
+126;Farzana Islam, Mohammad Minhazul Alam, S. M. Shahadat Hossain, Abdul Motaleb, Sabrina Yeasmin;Bengali Fake News Detection;https://ieeexplore.ieee.org/document/9199931/
+127;Awf Abdulrahman, Muhammet Baykara;Fake News Detection Using Machine Learning and Deep Learning Algorithms;https://ieeexplore.ieee.org/document/9436605/
+128;Lukas Kurasinski, Radu-Casian Mihailescu;Towards Machine Learning Explainability in Text Classification for Fake News Detection;https://ieeexplore.ieee.org/document/9356374/
+129;Md. Yasmi Tohabar, Nahiyan Nasrah, Asif Mohammed Samir;Bengali Fake News Detection Using Machine Learning and Effectiveness of Sentiment as a Feature;https://ieeexplore.ieee.org/document/9564138/
+130;Nihel Fatima Baarir, Abdelhamid Djeffal;Fake News detection Using Machine Learning;https://ieeexplore.ieee.org/document/9378748/
+131;Hyewon Choi, Youngjoong Ko;Using Adversarial Learning and Biterm Topic Model for an Effective Fake News Video Detection System on Heterogeneous Topics and Short Texts;https://ieeexplore.ieee.org/document/9585513/
+132;Joma George, Shintu Mariam Skariah, T. Aleena Xavier;Role of Contextual Features in Fake News Detection: A Review;https://ieeexplore.ieee.org/document/9071524/
+133;Raed Alharbi, Minh N. Vu, My T. Thai;Evaluating Fake News Detection Models from Explainable Machine Learning Perspectives;https://ieeexplore.ieee.org/document/9500467/
+134;Qing Liao, Heyan Chai, Hao Han, Xiang Zhang, Xuan Wang, Wen Xia, Ye Ding;An Integrated Multi-Task Model for Fake News Detection;https://ieeexplore.ieee.org/document/9339883/
+135;Purnendu Kumar Rath, Rohini Basak;Automatic Detection of Fake News Using Textual Entailment Recognition;https://ieeexplore.ieee.org/document/9342247/
+136;Marcellus Smith, Brandon Brown, Gerry Dozier, Michael King;Mitigating Attacks on Fake News Detection Systems using Genetic-Based Adversarial Training;https://ieeexplore.ieee.org/document/9504723/
+137;Long Ying, Hui Yu, Jinguang Wang, Yongze Ji, Shengsheng Qian;Fake News Detection via Multi-Modal Topic Memory Network;https://ieeexplore.ieee.org/document/9541112/
+138;Saeed Amer Alameri, Masnizah Mohd;Comparison of Fake News Detection using Machine Learning and Deep Learning Techniques;https://ieeexplore.ieee.org/document/9392458/
+139;Masood Hamed Saghayan, Seyedeh Fatemeh Ebrahimi, Mohammad Bahrani;Exploring the Impact of Machine Translation on Fake News Detection: A Case Study on Persian Tweets about COVID-19;https://ieeexplore.ieee.org/document/9544409/
+140;Sarith Imaduwage, P.P.N.V. Kumara, W.J. Samaraweera;Capturing Credibility of Users for an Efficient Propagation Network Based Fake News Detection;https://ieeexplore.ieee.org/document/9790186/
+141;Nishtha Ahuja, Shailender Kumar;S-HAN: Hierarchical Attention Networks with Stacked Gated Recurrent Unit for Fake News Detection;https://ieeexplore.ieee.org/document/9197914/
+142;Okuhle Ngada, Bertram Haskins;Fake News Detection Using Content-Based Features and Machine Learning;https://ieeexplore.ieee.org/document/9411638/
+143;Xavier Jose, S.D Madhu Kumar, Priya Chandran;Characterization, Classification and Detection of Fake News in Online Social Media Networks;https://ieeexplore.ieee.org/document/9641517/
+144;SeongKu Kang, Junyoung Hwang, Hwanjo Yu;Multi-Modal Component Embedding for Fake News Detection;https://ieeexplore.ieee.org/document/9001800/
+145;Reza Mansouri, Mahmood Naderan-Tahan, Mohammad Javad Rashti;A Semi-supervised Learning Method for Fake News Detection in Social Media;https://ieeexplore.ieee.org/document/9261053/
+146;Nguyen Manh Duc Tuan, Pham Quang Nhat Minh;Multimodal Fusion with BERT and Attention Mechanism for Fake News Detection;https://ieeexplore.ieee.org/document/9642125/
+147;Long Ying, Hui Yu, Jinguang Wang, Yongze Ji, Shengsheng Qian;Multi-Level Multi-Modal Cross-Attention Network for Fake News Detection;https://ieeexplore.ieee.org/document/9541113/
+148;Ankitkumar Patel, Kevin Meehan;Fake News Detection on Reddit Utilising CountVectorizer and Term Frequency-Inverse Document Frequency with Logistic Regression, MultinominalNB and Support Vector Machine;https://ieeexplore.ieee.org/document/9467842/
+149;Quanliang Jing, Di Yao, Xinxin Fan, Baoli Wang, Haining Tan, Xiangpeng Bu, Jingping Bi;TRANSFAKE: Multi-task Transformer for Multimodal Enhanced Fake News Detection;https://ieeexplore.ieee.org/document/9533433/
+150;Xiaojun Wu, Jimin Wang;SAFS: Social-Article Features-Stacking Model for Fake News Detection;https://ieeexplore.ieee.org/document/9459078/
+151;Honghao Cao, Junhao Deng, Guoxuan Dong, Dewei Yuan;A Discriminative Graph Neural Network for Fake News Detection;https://ieeexplore.ieee.org/document/9696018/
+152;Anshika Choudhary, Anuja Arora;ImageFake: An Ensemble Convolution Models Driven Approach for Image Based Fake News Detection;https://ieeexplore.ieee.org/document/9673192/
+153;Sarith Imaduwage, P.P.N.V. Kumara, W.J. Samaraweera;Importance of User Representation in Propagation Network-based Fake News Detection: A Critical Review and Potential Improvements;https://ieeexplore.ieee.org/document/9754103/
+154;Dinesh Kumar Vishwakarma, Chhavi Jain;Recent State-of-the-art of Fake News Detection: A Review;https://ieeexplore.ieee.org/document/9153985/
+155;Md. Saqib Hasan, Rukshar Alam, Muhammad Abdullah Adnan;Truth or Lie: Pre-emptive Detection of Fake News in Different Languages Through Entropy-based Active Learning and Multi-model Neural Ensemble;https://ieeexplore.ieee.org/document/9381422/
+156;Ashok Kumar J, Tina Esther Trueman, Erik Cambria;Fake News Detection Using XLNet Fine-Tuning Model;https://ieeexplore.ieee.org/document/9697269/
+157;Sajib Kumar Saha Joy, Dibyo Fabian Dofadar, Riyo Hayat Khan, Md. Sabbir Ahmed, Rafeed Rahman;A Comparative Study on COVID-19 Fake News Detection Using Different Transformer Based Models;https://ieeexplore.ieee.org/document/9873797/
+158;Miodrag Zivkovic, Catalin Stoean, Aleksandar Petrovic, Nebojsa Bacanin, Ivana Strumberger;A Novel Method for COVID-19 Pandemic Information Fake News Detection Based on the Arithmetic Optimization Algorithm;https://ieeexplore.ieee.org/document/9700334/
+159;Akash Dnyandeo Waghmare, Girish Kumar Patnaik;Social Media Fake News Detection using mNB in Blockchain;https://ieeexplore.ieee.org/document/9760840/
+160;Rachna K. Somkunwar, Anil Kumar Gupta, Faizan Shikalgar, Rohan Kapdi, Shubham Maral, Arpit Paithankar;A Novel Hybrid Approach for Fake News Detection;https://ieeexplore.ieee.org/document/9702434/
+161;Klaudia Ivancová, Martin Sarnovský, Viera Maslej-Krcšñáková;Fake news detection in Slovak language using deep learning techniques;https://ieeexplore.ieee.org/document/9378650/
+162;Muhamad Arif Rohman, Dewi Khairani, Khodijah Hulliyah, Arini, Pedi Riswandi, Idham Lakoni;Systematic Literature Review on Methods used in Classification and Fake News Detection in Indonesian;https://ieeexplore.ieee.org/document/9589004/
+163;Mayank Kumar Jain, Dinesh Gopalani, Yogesh Kumar Meena, Rajesh Kumar;Machine Learning based Fake News Detection using linguistic features and word vector features;https://ieeexplore.ieee.org/document/9376576/
+164;Ruchika Malhotra, Anushree Mahur, Achint;COVID-19 Fake News Detection System;https://ieeexplore.ieee.org/document/9734144/
+165;Priyanshi Shah, Ziad Kobti;Multimodal fake news detection using a Cultural Algorithm with situational and normative knowledge;https://ieeexplore.ieee.org/document/9185643/
+166;Haohui Liu;A Location Independent Machine Learning Approach for Early Fake News Detection;https://ieeexplore.ieee.org/document/9005962/
+167;Lumbardha Hasimi, Aneta Poniszewska-Marańda;Ensemble Learning-based Fake News and Disinformation Detection System;https://ieeexplore.ieee.org/document/9592470/
+168;S. Vinothkumar, S. Varadhaganapathy, M. Ramalingam, D. Ramkishore, S. Rithik, K.P. Tharanies;Fake News Detection Using SVM Algorithm in Machine Learning;https://ieeexplore.ieee.org/document/9740886/
+169;Fatemeh Torgheh, Mohammad Reza Keyvanpour, Behrooz Masoumi;A New Method Based on Deep Learning and Time Stabilization of the Propagation Path for Fake News Detection;https://ieeexplore.ieee.org/document/9685211/
+170;Suman De, Dhriti Agarwal;A Novel Model of Supervised Clustering using Sentiment and Contextual Analysis for Fake News Detection;https://ieeexplore.ieee.org/document/9350457/
+171;Apoorva Shete, Harshit Soni, Zen Sajnani, Aishwarya Shete;Fake News Detection Using Natural Language Processing and Logistic Regression;https://ieeexplore.ieee.org/document/9563292/
+172;Vaishali Vaibhav Hirlekar, Arun Kumar;Natural Language Processing based Online Fake News Detection Challenges – A Detailed Review;https://ieeexplore.ieee.org/document/9137915/
+173;Tanik Saikh, B. Haripriya, Asif Ekbal, Pushpak Bhattacharyya;A Deep Transfer Learning Approach for Fake News Detection;https://ieeexplore.ieee.org/document/9207477/
+174;Vidhu Tanwar, Kapil Sharma;Multi-Model Fake News Detection based on Concatenation of Visual Latent Features;https://ieeexplore.ieee.org/document/9182398/
+175;Kian Long Tan, Chin Poo Lee, Kian Ming Lim;FN-Net: A Deep Convolutional Neural Network for Fake News Detection;https://ieeexplore.ieee.org/document/9527500/
+176;Vivek Ranjan, Pragati Agrawal;Fake News Detection: GA-Transformer And IG-Transformer Based Approach;https://ieeexplore.ieee.org/document/9734180/
+177;Chenguang Song, Yiyang Teng, Bin Wu;Dynamic Graph Neural Network for Fake News Detection;https://ieeexplore.ieee.org/document/9754681/
+178;Rina Kumari, Nischal Ashok, Tirthankar Ghosal, Asif Ekbal;A Multitask Learning Approach for Fake News Detection: Novelty, Emotion, and Sentiment Lend a Helping Hand;https://ieeexplore.ieee.org/document/9534218/
+179;Mengtao Sun, Ibrahim A. Hameed, Hao Wang, Mark Pasquine;Perceiving the Narrative Style for Fake News Detection Using Deep Learning;https://ieeexplore.ieee.org/document/9781072/
+180;Myunghoon Kang, Jaehyung Seo, Chanjun Park, Heuiseok Lim;Utilization Strategy of User Engagements in Korean Fake News Detection;https://ieeexplore.ieee.org/document/9841541/
+181;Fazlullah Khan, Ryan Alturki, Gautam Srivastava, Foziah Gazzawe, Syed Tauhid Ullah Shah;Explainable Detection of Fake News on Social Media Using Pyramidal Co-Attention Network;https://ieeexplore.ieee.org/document/9908576/
+182;Nessrine Raggad, Nouha Arfaoui;Machine Learning Algorithms For COVID-19 Fake News Detection;https://ieeexplore.ieee.org/document/9875563/
+183;Ramji Jaiswal, Upendra Pratap Singh, Krishna Pratap Singh;Fake News Detection Using BERT-VGG19 Multimodal Variational Autoencoder;https://ieeexplore.ieee.org/document/9667614/
+184;Sunil Kumar, Bhavna Arora;A Review of Fake News Detection Using Machine Learning Techniques;https://ieeexplore.ieee.org/document/9532796/
+185;Chetan Agrawal, Anjana Pandey, Sachin Goyal;A Survey on Role of Machine Learning and NLP in Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9573875/
+186;N. Leela Siva Rama Krishna, M. Adimoolam;Fake News Detection system using Decision Tree algorithm and compare textual property with Support Vector Machine algorithm;https://ieeexplore.ieee.org/document/9758999/
+187;Manideep Narra, Muhammad Umer, Saima Sadiq, Ala’ Abdulmajid Eshmawi, Hanen Karamti;Selective Feature Sets Based Fake News Detection for COVID-19 to Manage Infodemic;https://ieeexplore.ieee.org/document/9893055/
+188;Tashko Pavlov, Georgina Mirceva;COVID-19 Fake News Detection by Using BERT and RoBERTa models;https://ieeexplore.ieee.org/document/9803414/
+189;Adeep Hande, Karthik Puranik, Ruba Priyadharshini, Sajeetha Thavareesan, Bharathi Raja Chakravarthi;Evaluating Pretrained Transformer-based Models for COVID-19 Fake News Detection;https://ieeexplore.ieee.org/document/9418446/
+190;N. Kanagavalli, S. Baghavathi Priya, Jeyakumar D;Design of Hyperparameter Tuned Deep Learning based Automated Fake News Detection in Social Networking Data;https://ieeexplore.ieee.org/document/9753739/
+191;Poonam Narang, Upasana Sharma;A Study on Artificial Intelligence Techniques for Fake News Detection;https://ieeexplore.ieee.org/document/9673252/
+192;Mansour Davoudi, Mohammad R. Moosavi, Mohammad Hadi Sadreddini;A Novel Method for Fake News Detection Based on Propagation Tree;https://ieeexplore.ieee.org/document/9721441/
+193;Amit Neil Ramkissoon, Wayne Goodridge;Veracity: A Fake News Detection Architecture for MANET Messaging;https://ieeexplore.ieee.org/document/9721975/
+194;Anoud Bani Hani, Oluwasegun Adedugbe, Feras Al-Obeidat, Elhadj Benkhelifa, Munir Majdalawieh;Fane-KG: A Semantic Knowledge Graph for Context-Based Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9336542/
+195;Anchal Gupta, Akshay Singhal, Akhilesh Mahajan, Aman Jolly, Shailender Kumar;Empirical Framework for Automatic Detection of Neural and Human Authored Fake News;https://ieeexplore.ieee.org/document/9788271/
+196;Javier Del Ser, Miren Nekane Bilbao, Ibai Laña, Khan Muhammad, David Camacho;Efficient Fake News Detection using Bagging Ensembles of Bidirectional Echo State Networks;https://ieeexplore.ieee.org/document/9892331/
+197;K Raghavendra Asish, Adarsh Gupta, Arpit Kumar, Alex Mason, Murali Krishna Enduri, Satish Anamalamudi;A Tool for Fake News Detection using Machine Learning Techniques;https://ieeexplore.ieee.org/document/9848064/
+198;Marko Sahan, Vaclav Smidl, Radek Marik;Active Learning for Text Classification and Fake News Detection;https://ieeexplore.ieee.org/document/9644290/
+199;Maryam Bukhari, Muazzam Maqsood, Seungmin Rho;Fake News Detection on Social Media for Sustainable Trust-based Social Networking;https://ieeexplore.ieee.org/document/9798992/
+200;Yongchun Zhu, Qiang Sheng, Juan Cao, Qiong Nan, Kai Shu, Minghui Wu, Jindong Wang;Memory-Guided Multi-View Multi-Domain Fake News Detection;https://ieeexplore.ieee.org/document/9802916/
+201;Rifdah Defrina Abdiansyah, Dewi Mutiara, Shevila Pannadhika Sumedha, Novita Hanafiah;Effective Methods for Fake News Detection: A Systematic Literature Review;https://ieeexplore.ieee.org/document/9609777/
+202;Bandi Ganesh, Dr. K. Anitha;Implementation of Personality Detection and Accuracy Prediction for identification of fake and true news using Decision Tree and Random Forest Algorithms;https://ieeexplore.ieee.org/document/9759039/
+203;Meenu Gupta, Rakesh Kumar, Geetam Pradhan, Dheeraj Kumawat;Content Based Offline Fake News Detection using Classification Technique;https://ieeexplore.ieee.org/document/9633857/
+204;Rohit Kumar Kaliyar, Mohit Agrawal, Anurag Goswami;FndIP: Fake News Detection on Social Media Using Incompatible Probabilistic Method;https://ieeexplore.ieee.org/document/9850787/
+205;Yashashwini Dixit, Aiswarya Sanjay, Kaarthik E, Shridevi S;Fake News Detection of Live Media using Speech to Text Conversion;https://ieeexplore.ieee.org/document/9696762/
+206;Ronak Agrawal, Dilip Kumar Sharma;A Survey on Video-Based Fake News Detection Techniques;https://ieeexplore.ieee.org/document/9441196/
+207;Zhikai Chen, Peng Wu, Li Pan;Leveraging Diversity-Aware Context Attention Networks for Fake News Detection on Social Platforms;https://ieeexplore.ieee.org/document/9892488/
+208;Zhi Zeng, Linyun Ye, Ruigang Liu, Ziwen Cui, Minghao Wu, Ying Sha;Fake News Detection by Using Common Latent Semantics Matching Method;https://ieeexplore.ieee.org/document/9643291/
+209;Pengfei Wei, Fei Wu, Ying Sun, Hong Zhou, Xiao-Yuan Jing;Modality and Event Adversarial Networks for Multi-Modal Fake News Detection;https://ieeexplore.ieee.org/document/9794602/
+210;N. Leela Siva Rama Krishna, M. Adimoolam;Fake News Detection System using Logistic Regression and Compare Textual Property with Support Vector Machine Algorithm;https://ieeexplore.ieee.org/document/9760768/
+211;Sakshini Hangloo, Bhavna Arora;Content-based fake news detection using deep learning techniques: Analysis, challenges and possible solutions;https://ieeexplore.ieee.org/document/9913569/
+212;Steni Mol T S, P S Sreeja;BERT-LSTM for Fake News Detection on Facebook Using SVD;https://ieeexplore.ieee.org/document/9923970/
+213;Jiangshu Du, Yingtong Dou, Congying Xia, Limeng Cui, Jing Ma, Philip S. Yu;Cross-lingual COVID-19 Fake News Detection;https://ieeexplore.ieee.org/document/9679918/
+214;Ying Guo, Hong Ge, Jinhong Li;Fake News Detection Based on Two-Branch Network and Domain Adversarial;https://ieeexplore.ieee.org/document/9906330/
+215;Vinit Kumar, Arvind Kumar, Abhinav Kumar Singh, Ansh Pachauri;Fake News Detection using Machine Learning and Natural Language Processing;https://ieeexplore.ieee.org/document/9673378/
+216;Saurav Jha, Shiv Narain Gupta, Vivek Gupta, Priyesh Tiwari;Fake News Detection: Needs for Individuals and Businesses in the time of Covid-19 and its Future Applications;https://ieeexplore.ieee.org/document/9725484/
+217;Patomporn Payoungkhamdee, Peerachet Porkaew, Atthasith Sinthunyathum, Phattharaphon Songphum;LimeSoda: Dataset for Fake News Detection in Healthcare Domain;https://ieeexplore.ieee.org/document/9678187/
+218;Shreya Kannan, Shreyaa Saravanan, Preethi Chandirasekeran, Subhra Rani Patra;Detection of Fake News related to COVID-19 using Natural Language Processing;https://ieeexplore.ieee.org/document/9545047/
+219;Khondoker Mirazul Mumenin, Khondker Jahid Reza, Swarna Saha Shathi, Humayra Akter, M. Raihan;COVID-19 Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9768523/
+220;Xishuang Dong, Shouvon Sarker, Lijun Qian;Integrating Human-in-the-loop into Swarm Learning for Decentralized Fake News Detection;https://ieeexplore.ieee.org/document/9923043/
+221;Swornamalya. M. N, Kalishwari Meena. V, Sabu Verma, S. Rajagopal;NLP Based Fake News Detection Using Hybrid Machine Learning Techniques;https://ieeexplore.ieee.org/document/9885679/
+222;Aniket Sharma, Ishita Singh, Vipin Rai;Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9823660/
+223;Fan Xu, Minghao Li, Shuixiu Wu, Qi Huang, Keyu Yan, Mingwen Wang;Exploring Hierarchical Language Knowledge in Graph Neural Networks for Fake News Detection;https://ieeexplore.ieee.org/document/9853415/
+224;Noureddine Seddari, Abdelouahid Derhab, Mohamed Belaoued, Waleed Halboob, Jalal Al-Muhtadi;A Hybrid Linguistic and Knowledge-Based Analysis Approach for Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9791232/
+225;Kavinder Singh, Aditi Aditi, Amar Kumar Jaiswal, Ananya Shivam;A Comprehensive Study on Data-Driven Fake News Detection Methods;https://ieeexplore.ieee.org/document/9788406/
+226;Tien Huu Do, Marc Berneman, Jasabanta Patro, Giannis Bekoulis, Nikos Deligiannis;Context-Aware Deep Markov Random Fields for Fake News Detection;https://ieeexplore.ieee.org/document/9540871/
+227;K Vishnu Vardhan, B.Manjula Josephine, K.V.S.N. Rama Rao;Fake News Detection in Social Media Using Supervised Learning Techniques;https://ieeexplore.ieee.org/document/9760961/
+228;Momina Qazi, Muhammad U.S. Khan, Mazhar Ali;Detection of Fake News Using Transformer Model;https://ieeexplore.ieee.org/document/9074071/
+229;D. Janakieva, G. Mirceva, S. Gievska;Fake News Detection by Using Doc2Vec Representation Model and Various Classification Algorithms;https://ieeexplore.ieee.org/document/9596928/
+230;Yaseen Khan, Surendra Thakur;Fake News Detection of South African COVID-19 Related Tweets using Machine Learning;https://ieeexplore.ieee.org/document/9856272/
+231;Amit Neil Ramkissoon, Wayne Goodridge;Legitimacy: An Ensemble Learning Model for Credibility Based Fake News Detection;https://ieeexplore.ieee.org/document/9679863/
+232;Ferry Wahyu Wibowo, Akhmad Dahlan, Wihayati;Detection of Fake News and Hoaxes on Information from Web Scraping using Classifier Methods;https://ieeexplore.ieee.org/document/9702824/
+233;Eappen Zachariah Mathews, N. Preethi;Fake News Detection: An Effective Content-Based Approach Using Machine Learning Techniques;https://ieeexplore.ieee.org/document/9741049/
+234;Gunawansyah, Faris Ghilmany, Toni Arifin, Riffa Haviani Laluma, Bambang Sugiarto, Beki Subaeki;Implementation of Fake News Detection Using Long Short Term Memory Method Base on Android;https://ieeexplore.ieee.org/document/9768283/
+235;Yi Tian, Jialing Gu, Yiiun Jia, Richard O. Sinnott;An Exploration of Machine and Deep Learning Models for Fake News Detection in Social Media;https://ieeexplore.ieee.org/document/9635201/
+236;N. Kousika, Deepa. S, Deephika. C, Dhatchaiyine. B M, Amrutha. J;A System for Fake News Detection by using Supervised Learning Model for Social Media Contents;https://ieeexplore.ieee.org/document/9432096/
+237;Lalu M. Riza Rizky, Suyanto Suyanto;Improving Stance-based Fake News Detection using BERT Model with Synonym Replacement and Random Swap Data Augmentation Technique;https://ieeexplore.ieee.org/document/9791600/
+238;S Devi, V Karthik, S Baga Vathi Bavatharani, K Indhumadhi;Fake News And Tampered Image Detection In Social Networks Using Machine Learning;https://ieeexplore.ieee.org/document/9544661/
+239;Haichao Zhu, Richard O. Sinnott;A Performance Comparison of Fake News Detection Approaches;https://ieeexplore.ieee.org/document/9718487/
+240;Sanket Mhatre, Akhil Masurkar;A Hybrid Method for Fake News Detection using Cosine Similarity Scores;https://ieeexplore.ieee.org/document/9510134/
+241;Zhiwei Guo, Keping Yu, Alireza Jolfaei, Gang Li, Feng Ding, Amin Beheshti;Mixed Graph Neural Network-Based Fake News Detection for Sustainable Vehicular Social Networks;https://ieeexplore.ieee.org/document/9819856/
+242;Varun Gupta, Rohan Sahai Mathur, Tushar Bansal, Anjali Goyal;Fake News Detection using Machine Learning;https://ieeexplore.ieee.org/document/9850560/
+243;Keshav Nath, Priyansh Soni, Anjum, Aman Ahuja, Rahul Katarya;Study of Fake News Detection using Machine Learning and Deep Learning Classification Methods;https://ieeexplore.ieee.org/document/9573583/
+244;Taminul Islam, MD Alamin Hosen, Akhi Mony, MD Touhid Hasan, Israt Jahan, Arindom Kundu;A Proposed Bi-LSTM Method to Fake News Detection;https://ieeexplore.ieee.org/document/9725937/
+245;Fahim Belal Mahmud, Mahi Md. Sadek Rayhan, Mahdi Hasan Shuvo, Islam Sadia, Md.Kishor Morol;A comparative analysis of Graph Neural Networks and commonly used machine learning algorithms on fake news detection;https://ieeexplore.ieee.org/document/9736339/
+246;Mohd Abbad, Gaurav Kumar, Md Samiullah, N.Suresh Kumar;A Predominant Advent to Fake News Detection using Machine Learning Algorithm;https://ieeexplore.ieee.org/document/9498436/
+247;K. V Mahijith, Aswin Unni Sunil, Ashin C, Abhinand Sreelathan, Manoj V. Thomas;A Novel Fake News Detection Approach Using Machine Learning;https://ieeexplore.ieee.org/document/9917829/
+248;Sudhakar M, Kaliyamurthie K. P;Estimation of Precision in Fake News Detection Using Novel Bert Algorithm and Comparison with Random Forest;https://ieeexplore.ieee.org/document/9917629/
+249;Ngoc-Dong Pham, Thi-Hanh Le, Thanh-Dat Do, Thanh-Toan Vuong, Thi-Hong Vuong, Quang-Thuy Ha;Vietnamese Fake News Detection Based on Hybrid Transfer Learning Model and TF-IDF;https://ieeexplore.ieee.org/document/9648676/
+250;Ihor Pilkevych, Dmytro Fedorchuk, Olena Naumchak, Mykola Romanchuk;Fake News Detection in the Framework of Decision-Making System through Graph Neural Network;https://ieeexplore.ieee.org/document/9628907/
+251;Md. Zahin Hossain George, Naimul Hossain, Md. Rafiuzzaman Bhuiyan, Abu Kaisar Mohammad Masum;Bangla Fake News Detection Based On Multichannel Combined CNN-LSTM;https://ieeexplore.ieee.org/document/9580035/
+252;Guohou Shan, Boxin Zhao, James R. Clavin, Haibin Zhang, Sisi Duan;Poligraph: Intrusion-Tolerant and Distributed Fake News Detection System;https://ieeexplore.ieee.org/document/9627681/
+253;Shashank Madhusudhan, Siddhant Mahurkar, Suresh Kumar Nagarajan;Attributional analysis of Multi-Modal Fake News Detection Models (Grand Challenge);https://ieeexplore.ieee.org/document/9232590/
+254;Pallabi Saikia, Kshitij Gundale, Ankit Jain, Dev Jadeja, Harvi Patel, Mohendra Roy;Modelling Social Context for Fake News Detection: A Graph Neural Network Based Approach;https://ieeexplore.ieee.org/document/9892311/
+255;Kian Long Tan, Chin Poo Lee, Kian Ming Lim;Fake News Detection with Hybrid CNN-LSTM;https://ieeexplore.ieee.org/document/9527469/
+256;Abhinav Kumar, Jyoti Prakash Singh, Amit Kumar Singh;COVID-19 Fake News Detection Using Ensemble-Based Deep Learning Model;https://ieeexplore.ieee.org/document/9770449/
+257;G. Anusha, G. Praveen, D. Mounika, U. Sai Krishna, R. Cristin;Detection of Fake News using Recurrent Neural Network;https://ieeexplore.ieee.org/document/9793155/
+258;Nurshaheeda Shazleen Yuslee, Nur Atiqah Sia Abdullah;Fake News Detection using Naive Bayes;https://ieeexplore.ieee.org/document/9612540/
+259;Odatha Bandara, Dumika Jayarathne, Dilshani Shashinika, Lochandaka Ranathunga;Ontology Based Fake News Detection for Sinhala Language;https://ieeexplore.ieee.org/document/9657257/
+260;Hebah Alquran, Shadi Banitaan;Fake News Detection in Social Networks Using Data Mining Techniques;https://ieeexplore.ieee.org/document/9817287/
+261;Yingrui Ma, Dave Towey, Tsong Yueh Chen, Zhi Quan Zhou;Metamorphic Testing of Fake News Detection Software;https://ieeexplore.ieee.org/document/9529647/
+262;Zimian Wei, Hengyue Pan, Linbo Qiao, Xin Niu, Peijie Dong, Dongsheng Li;Cross-Modal Knowledge Distillation in Multi-Modal Fake News Detection;https://ieeexplore.ieee.org/document/9747280/
+263;Sherry Girgis, Eslam Amer;A Proposed Ensemble Voting Model for Fake News Detection;https://ieeexplore.ieee.org/document/9781788/
+264;Yaru Zhang, Xijin Tang;CLACTA: Comment-Level-Attention and Comment-Type-Awareness for Fake News Detection;https://ieeexplore.ieee.org/document/9440601/
+265;Parvathy Ganesh, Lekshmi Priya, R Nandakumar;Fake News Detection - A Comparative Study of Advanced Ensemble Approaches;https://ieeexplore.ieee.org/document/9453061/
+266;Anika Anjum, Mumenunnessa Keya, Abu Kaisar Mohammad Masum, Sheak Rashed Haider Noori;Fake and Authentic News Detection Using Social Data Strivings;https://ieeexplore.ieee.org/document/9579777/
+267;Sarith Imaduwage, P.P.N.V. Kumara, W.J. Samaraweera;The Mismatch between Graph Neural Networks’ Expressivity and Propagation Graphs in Fake News Detection;https://ieeexplore.ieee.org/document/9900611/
+268;Ziyan Tian, Sanjeev Baskiyar;Fake News Detection using Machine Learning with Feature Selection;https://ieeexplore.ieee.org/document/9776346/
+269;Ravish, Rahul Katarya, Deepak Dahiya, Saksham Checker;Fake News Detection System Using Featured-Based Optimized MSVM Classification;https://ieeexplore.ieee.org/document/9928161/
+270;Udit Narayan, Ajad Kumar, Kuldeep Kumar;Fake News Detection using Hybrid of Deep Neural Network and Stacked LSTM;https://ieeexplore.ieee.org/document/9725519/
+271;Shloak Rathod;Exploring Author Profiling for Fake News Detection;https://ieeexplore.ieee.org/document/9842571/
+272;Anoud Bani-Hani, Oluwasegun Adedugbe, Elhadj Benkhelifa, Munir Majdalawieh, Feras Al-Obeidat;A Semantic Model for Context-Based Fake News Detection on Social Media;https://ieeexplore.ieee.org/document/9316504/
+273;Werner Bailer, Georg Thallinger, Gerhard Backfried, Dorothea Thomas-Aniola;Challenges for Automatic Detection of Fake News Related to Migration : Invited paper;https://ieeexplore.ieee.org/document/9475929/
+274;Paul Guélorget, Benjamin Icard, Guillaume Gadek, Souhir Gahbiche, Sylvain Gatepaille, Ghislain Atemezing;Combining vagueness detection with deep learning to identify fake news;https://ieeexplore.ieee.org/document/9626899/
+275;Michał Choraś, Aleksandra Pawlicka, Rafał Kozik, Michał Woźniak;How Machine Learning May Prevent the Breakdown of Democracy by Contributing to Fake News Detection;https://ieeexplore.ieee.org/document/9770455/
+276;Sarvesh Agrawal, Naman Bhansali, Raj Bora, Siddhant Burse, Ameyaa Biwalkar;Fake News Detection Bot Using Machine Learning Model;https://ieeexplore.ieee.org/document/9908953/
+277;Trisna Ari Roshinta, Hartatik, Elya Kumala Fauziyah, Ivan Fausta Dinata, Nurul Firdaus, Fiddin Yusfida A'la;A Comparison of Text Classification Methods: Towards Fake News Detection for Indonesian Websites;https://ieeexplore.ieee.org/document/9918702/
+278;Qamber Abbas, Muhammad Umar Zeshan, Muhammad Asif;A CNN-RNN Based Fake News Detection Model Using Deep Learning;https://ieeexplore.ieee.org/document/9700816/
+279;Bhaskar Majumdar, Md. RafiuzzamanBhuiyan, Md. Arid Hasan, Md. Sanzidul Islam, Sheak Rashed Haider Noori;Multi Class Fake News Detection using LSTM Approach;https://ieeexplore.ieee.org/document/9676333/
+280;Haitian Yang, Xuan Zhao, Degang Sun, Yan Wang, He Zhu, Chao Ma, Weiqing Huang;Multi-Modal fake news Detection on Social Media with Dual Attention Fusion Networks;https://ieeexplore.ieee.org/document/9631256/
+281;Ziyan Tian, Sanjeev Baskiyar;Fake News Detection: An Application of Quantum K-Nearest Neighbors;https://ieeexplore.ieee.org/document/9659944/
+282;Anu Priya, Abhinav Kumar;Deep Ensemble Approach for COVID-19 Fake News Detection from Social Media;https://ieeexplore.ieee.org/document/9565958/
+283;Yichuan Li, Kyumin Lee, Nima Kordzadeh, Brenton Faber, Cameron Fiddes, Elaine Chen, Kai Shu;Multi-Source Domain Adaptation with Weak Supervision for Early Fake News Detection;https://ieeexplore.ieee.org/document/9671592/
+284;Shubhangi Rastogi, Shabeg Singh Gill, Divya Bansal;An Adaptive Approach for Fake News Detection in Social Media: Single vs Cross Domain;https://ieeexplore.ieee.org/document/9799131/
+285;Jianhui Xie, Song Liu, Ruixin Liu, Yinghong Zhang, Yuesheng Zhu;SERN: Stance Extraction and Reasoning Network for Fake News Detection;https://ieeexplore.ieee.org/document/9414787/
+286;Suyu Ouyang, Junping Du, Benzhi Wang, Bowen Yu, Yuhui Wang, Meiyu Liang;Federal Learning Based COVID-19 Fake News Detection With Deep Self-Attention Network;https://ieeexplore.ieee.org/document/9754663/
+287;Pasi Shailendra, Rashmi M, Ramu S, Ram Mohana Reddy Guddeti;Fake News Detection in Hindi Using Embedding Techniques;https://ieeexplore.ieee.org/document/9864378/
+288;Dilip Kumar Sharma, Priya Shrivastava, Sonal Garg;Utilizing Word Embedding and Linguistic Features for Fake News Detection;https://ieeexplore.ieee.org/document/9763294/
+289;Jayashree Nair, S S Akhil, V Harisankar;Fake News Detection Model for Regional Language;https://ieeexplore.ieee.org/document/9824641/
